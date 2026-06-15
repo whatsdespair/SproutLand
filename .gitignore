@@ -1,0 +1,18 @@
+
+# IntelliJ IDE project files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Gradle build outputs
+.gradle/
+build/
+
+# Log files
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db

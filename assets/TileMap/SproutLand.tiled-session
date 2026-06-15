@@ -1,0 +1,143 @@
+{
+    "activeFile": "Main.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Complete_Tileset_16x16-extruded.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Crops.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Farmer_2_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fences.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Fruit_Trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Main.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 218.5,
+                "y": 165
+            }
+        },
+        "Objects.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Pickup_Items.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Props_and_Buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Terrains.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tractor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Well_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Well_Animated.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Well_animated.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Wooden Gate.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Wooden_Gate_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "animation.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "player.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 1.9851041666666664,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.78590544157,
+                "y": 159.94122894474472
+            }
+        },
+        "well.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 150,
+    "last.imagePath": "/home/whatsdespair/Documents/SproutLand/assets/Sprites/Characters_16x16",
+    "map.height": 50,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 60,
+    "openFiles": [
+        "Main.tmx",
+        "Objects.tsx"
+    ],
+    "project": "SproutLand.tiled-project",
+    "recentFiles": [
+        "Objects.tsx",
+        "Main.tmx",
+        "Farmer_2_16x16.tsx",
+        "player.tsx",
+        "Complete_Tileset_16x16-extruded.tsx",
+        "well.tsx",
+        "Well_16x16.tsx",
+        "Wooden_Gate_16x16.tsx",
+        "Wooden Gate.tsx",
+        "animation.tsx",
+        "objects.tsx",
+        "Well_animated.tsx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
