@@ -1,5 +1,7 @@
-<
-<img width="144" height="144" alt="image" src="https://github.com/user-attachments/assets/e9d64bce-4c10-4d5c-b310-15d0cd2c9e32" />
+
+<p align="center">
+  <img width="144" height="144" alt="image" src="https://github.com/user-attachments/assets/e9d64bce-4c10-4d5c-b310-15d0cd2c9e32" />
+</p>
 
 # SproutLand
 
