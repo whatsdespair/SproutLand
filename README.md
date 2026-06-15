@@ -1,4 +1,6 @@
-<img width="128" height="128" alt="UnityPlayer" src="https://github.com/user-attachments/assets/1cf1dc52-9bd0-442f-b30d-e83df4f43344" />
+<
+<img width="144" height="144" alt="image" src="https://github.com/user-attachments/assets/e9d64bce-4c10-4d5c-b310-15d0cd2c9e32" />
+
 # SproutLand
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
