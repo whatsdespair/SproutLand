@@ -1,0 +1,390 @@
+
+objects.png
+size: 512, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+house/Farmer_House_1_16x16
+  rotate: false
+  xy: 2, 202
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+house/Farmer_House_2_16x16
+  rotate: false
+  xy: 2, 366
+  size: 160, 144
+  orig: 160, 144
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Brown_Big_16x16
+  rotate: false
+  xy: 454, 430
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Brown_Huge_16x16
+  rotate: false
+  xy: 166, 382
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Brown_Medium_16x16
+  rotate: false
+  xy: 454, 278
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Brown_Small_16x16
+  rotate: false
+  xy: 402, 262
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Green_Big_16x16
+  rotate: false
+  xy: 454, 346
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Green_Huge_16x16
+  rotate: false
+  xy: 234, 382
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Green_Medium_16x16
+  rotate: false
+  xy: 454, 210
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Yellow_Big_16x16
+  rotate: false
+  xy: 402, 330
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Yellow_Huge_16x16
+  rotate: false
+  xy: 234, 102
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Blue_Green_Big_16x16
+  rotate: false
+  xy: 274, 2
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Blue_Green_Huge_16x16
+  rotate: false
+  xy: 2, 70
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Blue_Green_Small_16x16
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Brown_Big_16x16
+  rotate: false
+  xy: 250, 282
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Brown_Huge_16x16
+  rotate: false
+  xy: 118, 70
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Brown_Small_16x16
+  rotate: false
+  xy: 70, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Green_Big_16x16
+  rotate: false
+  xy: 302, 414
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Green_Huge_16x16
+  rotate: false
+  xy: 134, 234
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Green_Small_16x16
+  rotate: false
+  xy: 138, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Big_16x16
+  rotate: false
+  xy: 334, 314
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Green_Big_16x16
+  rotate: false
+  xy: 386, 414
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Green_Huge_16x16
+  rotate: false
+  xy: 302, 110
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Green_Small_16x16
+  rotate: false
+  xy: 206, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Huge_16x16
+  rotate: false
+  xy: 358, 10
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Dark_Green_Big_16x16
+  rotate: false
+  xy: 370, 110
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Dark_Green_Huge_16x16
+  rotate: false
+  xy: 426, 10
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Green_Big_16x16
+  rotate: false
+  xy: 438, 110
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Birch_Big_16x16
+  rotate: false
+  xy: 494, 74
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Birch_Huge_16x16
+  rotate: false
+  xy: 302, 246
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Birch_Medium_16x16
+  rotate: false
+  xy: 494, 38
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Birch_Small_16x16
+  rotate: false
+  xy: 134, 214
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Oak_Big_16x16
+  rotate: false
+  xy: 250, 246
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Oak_Huge_16x16
+  rotate: false
+  xy: 338, 210
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Oak_Medium_16x16
+  rotate: false
+  xy: 302, 210
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Oak_Small_16x16
+  rotate: false
+  xy: 338, 278
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Pine_Big_16x16
+  rotate: false
+  xy: 390, 226
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+objects2.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tree/Tree_Birch_Green_Small_16x16
+  rotate: false
+  xy: 138, 18
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Yellow_Medium_16x16
+  rotate: false
+  xy: 274, 118
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Yellow_Small_16x16
+  rotate: false
+  xy: 342, 186
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Blue_Green_Medium_16x16
+  rotate: false
+  xy: 2, 70
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Brown_Medium_16x16
+  rotate: false
+  xy: 70, 170
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Green_Medium_16x16
+  rotate: false
+  xy: 70, 86
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Green_Medium_16x16
+  rotate: false
+  xy: 138, 170
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Medium_16x16
+  rotate: false
+  xy: 138, 86
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Small_16x16
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Dark_Green_Medium_16x16
+  rotate: false
+  xy: 206, 170
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Dark_Green_Small_16x16
+  rotate: false
+  xy: 70, 18
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Green_Huge_16x16
+  rotate: false
+  xy: 2, 154
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Green_Medium_16x16
+  rotate: false
+  xy: 206, 86
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Green_Small_16x16
+  rotate: false
+  xy: 274, 186
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Pine_Huge_16x16
+  rotate: false
+  xy: 190, 50
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Pine_Medium_16x16
+  rotate: false
+  xy: 326, 150
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Pine_Small_16x16
+  rotate: false
+  xy: 394, 218
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
