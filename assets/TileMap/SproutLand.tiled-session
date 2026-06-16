@@ -14,9 +14,12 @@
             "scaleInDock": 1,
             "scaleInEditor": 2
         },
+        "Farmer.tsx": {
+            "dynamicWrapping": true
+        },
         "Farmer_2_16x16.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 2
         },
         "Fences.tsx": {
             "scaleInDock": 1,
@@ -109,7 +112,7 @@
         }
     },
     "frame.defaultDuration": 150,
-    "last.imagePath": "/home/whatsdespair/Documents/SproutLand/assets/Sprites/Characters_16x16",
+    "last.imagePath": "/home/whatsdespair/Documents/SproutLand/assets/Sprites/Farmer Idle",
     "map.height": 50,
     "map.tileHeight": 16,
     "map.tileWidth": 16,
@@ -120,9 +123,9 @@
     ],
     "project": "SproutLand.tiled-project",
     "recentFiles": [
+        "Farmer_2_16x16.tsx",
         "Objects.tsx",
         "Main.tmx",
-        "Farmer_2_16x16.tsx",
         "player.tsx",
         "Complete_Tileset_16x16-extruded.tsx",
         "well.tsx",
@@ -139,5 +142,5 @@
         "height": 32,
         "width": 32
     },
-    "tileset.type": 0
+    "tileset.type": 1
 }

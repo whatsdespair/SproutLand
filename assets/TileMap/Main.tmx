@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="28" height="21" tilewidth="16" tileheight="16" infinite="0" nextlayerid="18" nextobjectid="22">
+<map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="28" height="21" tilewidth="16" tileheight="16" infinite="0" nextlayerid="18" nextobjectid="24">
  <tileset firstgid="1" source="Complete_Tileset_16x16-extruded.tsx"/>
  <tileset firstgid="11713" source="well.tsx"/>
  <tileset firstgid="11729" source="Objects.tsx"/>
+ <tileset firstgid="12827" source="Farmer.tsx"/>
  <layer id="10" name="ground" width="28" height="21">
   <data encoding="base64" compression="zlib">
    eJztk1EKgCAQRN9ZIuscYV4k7Cp27QgSZLFIVIrwY35Ed5znaAHb1Bi0DnyuAwPQZWhM9JuANUP6537zDdPwrfweB6gCnn5uLEsPbMF6CU+vmJ+uwNXniM2UzA/OJtNnEcxkhpC5qdTREsxS/NyZW0pd8HmqLfEPynuknn9bO9SN28E=
@@ -19,8 +20,25 @@
   </data>
  </layer>
  <objectgroup id="17" name="objects">
-  <object id="19" gid="11729" x="30" y="194" width="128" height="160"/>
-  <object id="20" gid="11818" x="140" y="251" width="48" height="64"/>
-  <object id="21" gid="11832" x="31" y="287" width="64" height="80"/>
+  <object id="19" gid="11729" x="30" y="194" width="128" height="160">
+   <properties>
+    <property name="atlasAsset" value="OBJECTS"/>
+   </properties>
+  </object>
+  <object id="20" gid="11818" x="140" y="251" width="48" height="64">
+   <properties>
+    <property name="atlasAsset" value="OBJECTS"/>
+   </properties>
+  </object>
+  <object id="21" gid="11832" x="31" y="287" width="64" height="80">
+   <properties>
+    <property name="atlasAsset" value="OBJECTS"/>
+   </properties>
+  </object>
+  <object id="23" gid="12827" x="104" y="279" width="16" height="23">
+   <properties>
+    <property name="atlasAsset" value="OBJECTS"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

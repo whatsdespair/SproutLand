@@ -3,7 +3,9 @@ package io.github.some_example_name.tiled;
 import com.badlogic.ashley.core.Engine;
 import com.badlogic.ashley.core.Entity;
 import com.badlogic.gdx.graphics.Color;
+import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
+import com.badlogic.gdx.graphics.glutils.FileTextureData;
 import com.badlogic.gdx.maps.tiled.TiledMapTile;
 import com.badlogic.gdx.maps.tiled.objects.TiledMapTileMapObject;
 import com.badlogic.gdx.math.Vector2;
@@ -21,6 +23,7 @@ public class TiledAshleyConfigurator {
     public TiledAshleyConfigurator(Engine engine, AssetService assetService) {
         this.engine = engine;
         this.assetService = assetService;
+
     }
 
     public void onLoadObject(TiledMapTileMapObject tileMapObject) {
@@ -54,7 +57,16 @@ public class TiledAshleyConfigurator {
 
 
     private TextureRegion getTextureRegion(TiledMapTile tile) {
-        tile.getProperties().get("atlasAsset", AtlasAsset.OBJECTS.name(), String.class);
+      String atlasAssetStr =  tile.getProperties().get("atlasAsset", AtlasAsset.OBJECTS.name(), String.class);
+        AtlasAsset atlasAsset = AtlasAsset.valueOf(atlasAssetStr);
+        TextureAtlas textureAtlas = this.assetService.get(atlasAsset);
+        FileTextureData textureData = (FileTextureData) tile.getTextureRegion().getTexture().getTextureData();
+        String atlasKey = textureData.getFileHandle().nameWithoutExtension();
+        TextureAtlas.AtlasRegion region = textureAtlas.findRegion(atlasKey + "/" + atlasKey);
+        if(region != null){
+            return region;
+        }
+        //player/sprite-1-4
 
         return tile.getTextureRegion();
     }

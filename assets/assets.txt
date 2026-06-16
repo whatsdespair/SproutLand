@@ -292,6 +292,10 @@ Sprites/Crops_Growth_16x16/Turnip_Growth_Stages_16x16.png
 Sprites/Crops_Growth_16x16/Watermelon_Growth_Stages_16x16.png
 Sprites/Crops_Growth_16x16/Wheat_Growth_Stages_16x16.png
 Sprites/Crops_Growth_16x16/Zuchini_Growth_Stages_16x16.png
+Sprites/Farmer Idle/sprite-1-1.png
+Sprites/Farmer Idle/sprite-1-2.png
+Sprites/Farmer Idle/sprite-1-3.png
+Sprites/Farmer Idle/sprite-1-4.png
 Sprites/Single_Files_16x16/0_Complete_Tileset_Singles_16x16/Barn_Small_16x16.png
 Sprites/Single_Files_16x16/0_Complete_Tileset_Singles_16x16/Basket_Apple_16x16.png
 Sprites/Single_Files_16x16/0_Complete_Tileset_Singles_16x16/Basket_Bananas_16x16.png
@@ -2497,6 +2501,7 @@ Sprites/Single_Files_16x16/Trees_16x16/Tree_Trunk_Pine_Small_16x16.png
 Sprites/Single_Files_16x16/Trees_16x16/desktop.ini
 Sprites/Vehicles_16x16/Tractor_16x16.png
 TileMap/Complete_Tileset_16x16-extruded.tsx
+TileMap/Farmer.tsx
 TileMap/Main.tmx
 TileMap/Objects.tsx
 TileMap/SproutLand.tiled-project
