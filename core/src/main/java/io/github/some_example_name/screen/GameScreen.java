@@ -1,4 +1,4 @@
-package io.github.some_example_name;
+package io.github.some_example_name.screen;
 
 import com.badlogic.ashley.core.Engine;
 import com.badlogic.ashley.core.EntitySystem;
@@ -9,6 +9,7 @@ import com.badlogic.gdx.graphics.g2d.Batch;
 import com.badlogic.gdx.maps.tiled.TiledMap;
 import com.badlogic.gdx.utils.Disposable;
 import com.badlogic.gdx.utils.viewport.Viewport;
+import io.github.some_example_name.Main;
 import io.github.some_example_name.asset.AssetService;
 import io.github.some_example_name.asset.MapAssets;
 import io.github.some_example_name.system.RenderSystem;

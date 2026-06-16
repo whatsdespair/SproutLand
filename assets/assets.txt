@@ -2502,3 +2502,10 @@ TileMap/Objects.tsx
 TileMap/SproutLand.tiled-project
 TileMap/SproutLand.tiled-session
 TileMap/well.tsx
+graphics/objects.atlas
+graphics/objects.png
+graphics/objects2.png
+graphics/objects3.png
+graphics/objects4.png
+graphics/objects5.png
+graphics/objects6.png

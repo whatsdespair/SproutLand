@@ -4,387 +4,4506 @@ size: 512, 512
 format: RGBA8888
 filter: Nearest, Nearest
 repeat: none
-house/Farmer_House_1_16x16
+fruit_tree/Basket_Apple_16x16
   rotate: false
-  xy: 2, 202
-  size: 128, 160
-  orig: 128, 160
+  xy: 494, 66
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Basket_Orange_16x16
+  rotate: false
+  xy: 490, 410
+  size: 16, 32
+  orig: 16, 32
   offset: 0, 0
   index: -1
 house/Farmer_House_2_16x16
   rotate: false
-  xy: 2, 366
+  xy: 2, 2
   size: 160, 144
   orig: 160, 144
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Brown_Big_16x16
+props_and_buildings/Cheese_Machine_Empty_16x16
   rotate: false
-  xy: 454, 430
-  size: 48, 80
-  orig: 48, 80
+  xy: 398, 2
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chicken_Coop_Railing_Corner_Single_16x16
+  rotate: false
+  xy: 490, 374
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Doghouse_16x16
+  rotate: false
+  xy: 466, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Metal_Vertical_Empty_16x16
+  rotate: false
+  xy: 490, 338
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Metal_Vertical_Full_16x16
+  rotate: false
+  xy: 490, 302
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Vertical_Empty_16x16
+  rotate: false
+  xy: 494, 266
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Vertical_Full_16x16
+  rotate: false
+  xy: 494, 230
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Farmer_House_2_16x16
+  rotate: false
+  xy: 166, 2
+  size: 160, 144
+  orig: 160, 144
+  offset: 0, 0
+  index: -1
+props_and_buildings/Front_Hayloft_Green_16x16
+  rotate: false
+  xy: 2, 266
+  size: 240, 112
+  orig: 240, 112
+  offset: 0, 0
+  index: -1
+props_and_buildings/Front_Hayloft_Grey_16x16
+  rotate: false
+  xy: 246, 398
+  size: 240, 112
+  orig: 240, 112
+  offset: 0, 0
+  index: -1
+props_and_buildings/Front_Hayloft_Red_16x16
+  rotate: false
+  xy: 2, 150
+  size: 240, 112
+  orig: 240, 112
+  offset: 0, 0
+  index: -1
+props_and_buildings/Front_Hayloft_Yellow_16x16
+  rotate: false
+  xy: 246, 282
+  size: 240, 112
+  orig: 240, 112
+  offset: 0, 0
+  index: -1
+props_and_buildings/Grain_2_16x16
+  rotate: false
+  xy: 494, 194
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Grain_3_16x16
+  rotate: false
+  xy: 494, 158
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Grain_4_16x16
+  rotate: false
+  xy: 494, 122
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Manger_Vertical_Empty_16x16
+  rotate: false
+  xy: 494, 86
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hayloft_Upper_Inside_16x16
+  rotate: false
+  xy: 2, 382
+  size: 240, 128
+  orig: 240, 128
+  offset: 0, 0
+  index: -1
+props_and_buildings/Silos_2_16x16
+  rotate: false
+  xy: 410, 54
+  size: 80, 224
+  orig: 80, 224
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stable_Example_Inside_16x16
+  rotate: false
+  xy: 246, 150
+  size: 160, 128
+  orig: 160, 128
+  offset: 0, 0
+  index: -1
+props_and_buildings/Weathercock_Base_Roof_Farmer_House_16x16
+  rotate: false
+  xy: 490, 446
+  size: 16, 64
+  orig: 16, 64
   offset: 0, 0
   index: -1
 tree/Tree_Birch_Brown_Huge_16x16
   rotate: false
-  xy: 166, 382
+  xy: 330, 18
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Brown_Medium_16x16
+
+objects2.png
+size: 512, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fences/Topsoil_Arable_Small_Horizontal_Modular_Left_16x16
   rotate: false
-  xy: 454, 278
-  size: 48, 64
-  orig: 48, 64
+  xy: 494, 118
+  size: 16, 32
+  orig: 16, 32
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Brown_Small_16x16
+fruit_tree/Example_Fruit_Tree_Stairs_16x16
   rotate: false
-  xy: 402, 262
-  size: 48, 64
-  orig: 48, 64
+  xy: 470, 2
+  size: 32, 48
+  orig: 32, 48
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Green_Big_16x16
+fruit_tree/Fruit_Tree_Apple_Fruitless_16x16
   rotate: false
-  xy: 454, 346
-  size: 48, 80
-  orig: 48, 80
+  xy: 386, 22
+  size: 80, 80
+  orig: 80, 80
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Green_Huge_16x16
+house/Farmer_House_1_16x16
   rotate: false
-  xy: 234, 382
-  size: 64, 128
-  orig: 64, 128
+  xy: 2, 22
+  size: 128, 160
+  orig: 128, 160
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Green_Medium_16x16
+props_and_buildings/Barn_Small_16x16
   rotate: false
-  xy: 454, 210
-  size: 48, 64
-  orig: 48, 64
+  xy: 118, 250
+  size: 128, 160
+  orig: 128, 160
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Yellow_Big_16x16
+props_and_buildings/Brush_Hammer_Black_Shadow_DIY_Crafting_Table_16x16
   rotate: false
-  xy: 402, 330
-  size: 48, 80
-  orig: 48, 80
+  xy: 54, 2
+  size: 32, 16
+  orig: 32, 16
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Yellow_Huge_16x16
+props_and_buildings/Brush_Hammer_DIY_Crafting_Table_16x16
   rotate: false
-  xy: 234, 102
-  size: 64, 128
-  orig: 64, 128
+  xy: 90, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chicken_Coop_Railing_Brown_Double_16x16
+  rotate: false
+  xy: 386, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chicken_Coop_Railing_Grey_Double_16x16
+  rotate: false
+  xy: 422, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Doghouse_Bone_16x16
+  rotate: false
+  xy: 470, 54
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Manger_Vertical_Full_16x16
+  rotate: false
+  xy: 490, 478
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hayloft_Green_Bottom_Inside_16x16
+  rotate: false
+  xy: 246, 430
+  size: 240, 80
+  orig: 240, 80
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hayloft_Grey_Bottom_Inside_16x16
+  rotate: false
+  xy: 250, 346
+  size: 240, 80
+  orig: 240, 80
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hayloft_Middle_Modular_Inside_16x16
+  rotate: false
+  xy: 250, 226
+  size: 240, 32
+  orig: 240, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hayloft_Red_Bottom_Inside_16x16
+  rotate: false
+  xy: 250, 262
+  size: 240, 80
+  orig: 240, 80
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hayloft_Yellow_Bottom_Inside_16x16
+  rotate: false
+  xy: 250, 142
+  size: 240, 80
+  orig: 240, 80
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Hanging_Full_Small_16x16
+  rotate: false
+  xy: 490, 442
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Vertical_Empty_16x16
+  rotate: false
+  xy: 494, 406
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Vertical_Full_16x16
+  rotate: false
+  xy: 494, 370
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pimpkin_Big_16x16
+  rotate: false
+  xy: 494, 334
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Roof_Hayloft_Middle_Modular_16x16
+  rotate: false
+  xy: 250, 106
+  size: 240, 32
+  orig: 240, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Roof_Hayloft_Top_16x16
+  rotate: false
+  xy: 2, 414
+  size: 240, 96
+  orig: 240, 96
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_1_Market_Stand_16x16
+  rotate: false
+  xy: 494, 298
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_2_Market_Stand_16x16
+  rotate: false
+  xy: 494, 262
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_Empty_Market_Stand_16x16
+  rotate: false
+  xy: 494, 226
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Silos_1_16x16
+  rotate: false
+  xy: 2, 186
+  size: 112, 224
+  orig: 112, 224
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tailor_Man_Mannequin_16x16
+  rotate: false
+  xy: 494, 190
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tailor_Woman_Mannequin_16x16
+  rotate: false
+  xy: 494, 154
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tools_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 2, 2
+  size: 48, 16
+  orig: 48, 16
   offset: 0, 0
   index: -1
 tree/Tree_Oak_Blue_Green_Big_16x16
   rotate: false
-  xy: 274, 2
+  xy: 134, 18
   size: 80, 96
   orig: 80, 96
   offset: 0, 0
   index: -1
 tree/Tree_Oak_Blue_Green_Huge_16x16
   rotate: false
-  xy: 2, 70
+  xy: 134, 118
   size: 112, 128
   orig: 112, 128
-  offset: 0, 0
-  index: -1
-tree/Tree_Oak_Blue_Green_Small_16x16
-  rotate: false
-  xy: 2, 2
-  size: 64, 64
-  orig: 64, 64
   offset: 0, 0
   index: -1
 tree/Tree_Oak_Brown_Big_16x16
   rotate: false
-  xy: 250, 282
+  xy: 218, 6
   size: 80, 96
   orig: 80, 96
-  offset: 0, 0
-  index: -1
-tree/Tree_Oak_Brown_Huge_16x16
-  rotate: false
-  xy: 118, 70
-  size: 112, 128
-  orig: 112, 128
-  offset: 0, 0
-  index: -1
-tree/Tree_Oak_Brown_Small_16x16
-  rotate: false
-  xy: 70, 2
-  size: 64, 64
-  orig: 64, 64
   offset: 0, 0
   index: -1
 tree/Tree_Oak_Green_Big_16x16
   rotate: false
-  xy: 302, 414
+  xy: 302, 6
   size: 80, 96
   orig: 80, 96
   offset: 0, 0
   index: -1
-tree/Tree_Oak_Green_Huge_16x16
+
+objects3.png
+size: 512, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fences/Topsoil_Arable_Small_Horizontal_Modular_Middle_16x16
   rotate: false
-  xy: 134, 234
-  size: 112, 128
-  orig: 112, 128
-  offset: 0, 0
-  index: -1
-tree/Tree_Oak_Green_Small_16x16
-  rotate: false
-  xy: 138, 2
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-tree/Tree_Pine_Blue_Big_16x16
-  rotate: false
-  xy: 334, 314
-  size: 64, 96
-  orig: 64, 96
-  offset: 0, 0
-  index: -1
-tree/Tree_Pine_Blue_Green_Big_16x16
-  rotate: false
-  xy: 386, 414
-  size: 64, 96
-  orig: 64, 96
-  offset: 0, 0
-  index: -1
-tree/Tree_Pine_Blue_Green_Huge_16x16
-  rotate: false
-  xy: 302, 110
-  size: 64, 96
-  orig: 64, 96
-  offset: 0, 0
-  index: -1
-tree/Tree_Pine_Blue_Green_Small_16x16
-  rotate: false
-  xy: 206, 2
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-tree/Tree_Pine_Blue_Huge_16x16
-  rotate: false
-  xy: 358, 10
-  size: 64, 96
-  orig: 64, 96
-  offset: 0, 0
-  index: -1
-tree/Tree_Pine_Dark_Green_Big_16x16
-  rotate: false
-  xy: 370, 110
-  size: 64, 96
-  orig: 64, 96
-  offset: 0, 0
-  index: -1
-tree/Tree_Pine_Dark_Green_Huge_16x16
-  rotate: false
-  xy: 426, 10
-  size: 64, 96
-  orig: 64, 96
-  offset: 0, 0
-  index: -1
-tree/Tree_Pine_Green_Big_16x16
-  rotate: false
-  xy: 438, 110
-  size: 64, 96
-  orig: 64, 96
-  offset: 0, 0
-  index: -1
-tree/Tree_Trunk_Birch_Big_16x16
-  rotate: false
-  xy: 494, 74
+  xy: 482, 478
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
-tree/Tree_Trunk_Birch_Huge_16x16
+fences/Topsoil_Arable_Small_Horizontal_Modular_Right_16x16
   rotate: false
-  xy: 302, 246
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-tree/Tree_Trunk_Birch_Medium_16x16
-  rotate: false
-  xy: 494, 38
+  xy: 482, 442
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
-tree/Tree_Trunk_Birch_Small_16x16
+fruit_tree/Basket_Bananas_16x16
   rotate: false
-  xy: 134, 214
+  xy: 482, 386
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
-tree/Tree_Trunk_Oak_Big_16x16
+fruit_tree/Fruit_Tree_Apple_Fruitless_Big_16x16
   rotate: false
-  xy: 250, 246
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Apple_Ripe_16x16
+  rotate: false
+  xy: 134, 298
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Apple_Ripe_Big_16x16
+  rotate: false
+  xy: 218, 298
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Apple_Unripe_16x16
+  rotate: false
+  xy: 302, 298
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Apple_Unripe_Big_16x16
+  rotate: false
+  xy: 386, 298
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Banana_Fruitless_16x16
+  rotate: false
+  xy: 202, 214
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Banana_Fruitless_Big_16x16
+  rotate: false
+  xy: 286, 214
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Banana_Ripe_16x16
+  rotate: false
+  xy: 370, 214
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Banana_Ripe_Big_16x16
+  rotate: false
+  xy: 190, 130
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Banana_Unripe_16x16
+  rotate: false
+  xy: 274, 130
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Banana_Unripe_Big_16x16
+  rotate: false
+  xy: 358, 130
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Orange_Fruitless_16x16
+  rotate: false
+  xy: 154, 46
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Orange_Fruitless_Big_16x16
+  rotate: false
+  xy: 238, 46
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Orange_Ripe_16x16
+  rotate: false
+  xy: 322, 46
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Small_Apple_16x16
+  rotate: false
+  xy: 474, 78
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Small_Banana_16x16
+  rotate: false
+  xy: 474, 26
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Stairs_16x16
+  rotate: false
+  xy: 470, 330
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fruit_tree/Tree_Trunk_Apple_16x16
+  rotate: false
+  xy: 482, 406
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Canopy_Shadow_Big_16x16
+  rotate: false
+  xy: 406, 10
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Canopy_Tools_Big_16x16
+  rotate: false
+  xy: 406, 46
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chicken_Coop_16x16
+  rotate: false
+  xy: 442, 130
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Horizontal_Empty_16x16
+  rotate: false
+  xy: 470, 310
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Horizontal_Full_16x16
+  rotate: false
+  xy: 474, 6
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Farmer_House_1_16x16
+  rotate: false
+  xy: 2, 350
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Blue_Big_16x16
+  rotate: false
+  xy: 154, 10
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Green_Big_16x16
+  rotate: false
+  xy: 238, 10
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Pink_Big_16x16
+  rotate: false
+  xy: 322, 10
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Yellow_Big_16x16
+  rotate: false
+  xy: 118, 230
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stable_Example_Outside_16x16
+  rotate: false
+  xy: 134, 382
+  size: 160, 128
+  orig: 160, 128
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tractor_Back_Side_16x16
+  rotate: false
+  xy: 70, 118
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tractor_Front_Side_16x16
+  rotate: false
+  xy: 86, 18
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Brown_Big_16x16
+  rotate: false
+  xy: 138, 146
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Green_Big_16x16
+  rotate: false
+  xy: 454, 214
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Green_Huge_16x16
+  rotate: false
+  xy: 2, 86
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Yellow_Huge_16x16
+  rotate: false
+  xy: 414, 382
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Brown_Huge_16x16
+  rotate: false
+  xy: 2, 218
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Green_Huge_16x16
+  rotate: false
+  xy: 298, 382
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+
+objects4.png
+size: 512, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fruit_tree/Basket_Lemon_16x16
+  rotate: false
+  xy: 494, 310
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Basket_Peach_16x16
+  rotate: false
+  xy: 494, 290
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Lemon_Fruitless_16x16
+  rotate: false
+  xy: 426, 70
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Lemon_Fruitless_Big_16x16
+  rotate: false
+  xy: 154, 342
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Lemon_Ripe_16x16
+  rotate: false
+  xy: 426, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Lemon_Ripe_Big_16x16
+  rotate: false
+  xy: 154, 258
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Lemon_Unripe_Big_16x16
+  rotate: false
+  xy: 154, 174
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Orange_Ripe_Big_16x16
+  rotate: false
+  xy: 138, 426
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Orange_Unripe_16x16
+  rotate: false
+  xy: 70, 226
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Orange_Unripe_Big_16x16
+  rotate: false
+  xy: 70, 142
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fruit_tree/Tree_Trunk_Orange_16x16
+  rotate: false
+  xy: 494, 474
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Basket_Empty_16x16
+  rotate: false
+  xy: 154, 154
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Box_Load_16x16
+  rotate: false
+  xy: 330, 186
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Box_Single_16x16
+  rotate: false
+  xy: 494, 270
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Bread_Pot_1_Stone_Oven_16x16
+  rotate: false
+  xy: 494, 250
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Bread_Pot_2_Stone_Oven_16x16
+  rotate: false
+  xy: 494, 230
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Bread_Pot_Empty_1_Stone_Oven_16x16
+  rotate: false
+  xy: 494, 210
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Bread_Pot_Empty_2_Stone_Oven_16x16
+  rotate: false
+  xy: 494, 190
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Bread_Stone_Oven_16x16
+  rotate: false
+  xy: 494, 170
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Brush_Dirty_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 494, 150
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Bucket_1_Single_16x16
+  rotate: false
+  xy: 494, 130
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Bucket_2_Single_16x16
+  rotate: false
+  xy: 494, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Canopy_Big_16x16
+  rotate: false
+  xy: 426, 138
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+props_and_buildings/Canopy_Shadow_Small_16x16
+  rotate: false
+  xy: 138, 2
   size: 48, 32
   orig: 48, 32
   offset: 0, 0
   index: -1
-tree/Tree_Trunk_Oak_Huge_16x16
+props_and_buildings/Canopy_Small_16x16
   rotate: false
-  xy: 338, 210
+  xy: 366, 138
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_1_16x16
+  rotate: false
+  xy: 494, 90
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_2_16x16
+  rotate: false
+  xy: 494, 70
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_3_16x16
+  rotate: false
+  xy: 494, 50
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_Machine_Full_16x16
+  rotate: false
+  xy: 178, 122
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chicken_Coop_Railing_Brown_Single_16x16
+  rotate: false
+  xy: 494, 30
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chicken_Coop_Railing_Grey_Single_16x16
+  rotate: false
+  xy: 494, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chicken_Sign_16x16
+  rotate: false
+  xy: 398, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Color_Can_Empty_Black_Shadow_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 398, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 314, 126
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
-tree/Tree_Trunk_Oak_Medium_16x16
+props_and_buildings/Drinking_Trough_Metal_Horizontal_Empty_16x16
   rotate: false
-  xy: 302, 210
-  size: 32, 32
-  orig: 32, 32
+  xy: 70, 122
+  size: 32, 16
+  orig: 32, 16
   offset: 0, 0
   index: -1
-tree/Tree_Trunk_Oak_Small_16x16
+props_and_buildings/Drinking_Trough_Metal_Horizontal_Full_16x16
   rotate: false
-  xy: 338, 278
-  size: 32, 32
-  orig: 32, 32
+  xy: 106, 122
+  size: 32, 16
+  orig: 32, 16
   offset: 0, 0
   index: -1
-tree/Tree_Trunk_Pine_Big_16x16
+props_and_buildings/Egg_Box_16x16
   rotate: false
-  xy: 390, 226
-  size: 32, 32
-  orig: 32, 32
+  xy: 142, 122
+  size: 32, 16
+  orig: 32, 16
   offset: 0, 0
   index: -1
-
-objects2.png
-size: 512, 256
-format: RGBA8888
-filter: Nearest, Nearest
-repeat: none
-tree/Tree_Birch_Green_Small_16x16
+props_and_buildings/Egg_Box_Empty_16x16
   rotate: false
-  xy: 138, 18
+  xy: 222, 178
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Yellow_Box_16x16
+  rotate: false
+  xy: 258, 178
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Dry_Pile_16x16
+  rotate: false
+  xy: 294, 178
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Henhouse_16x16
+  rotate: false
+  xy: 246, 126
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Blue_Small_16x16
+  rotate: false
+  xy: 190, 2
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Green_Small_16x16
+  rotate: false
+  xy: 242, 2
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Pink_Small_16x16
+  rotate: false
+  xy: 294, 6
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Yellow_Example_16x16
+  rotate: false
+  xy: 138, 38
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+props_and_buildings/Market_Stand_Yellow_Small_16x16
+  rotate: false
+  xy: 314, 222
   size: 48, 64
   orig: 48, 64
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Yellow_Medium_16x16
+props_and_buildings/Stone_Oven_1_16x16
   rotate: false
-  xy: 274, 118
+  xy: 242, 442
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stone_Oven_2_16x16
+  rotate: false
+  xy: 326, 442
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stone_Oven_3_16x16
+  rotate: false
+  xy: 410, 442
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tractor_Left_Side_16x16
+  rotate: false
+  xy: 242, 374
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tractor_Right_Side_16x16
+  rotate: false
+  xy: 326, 374
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Big_Vertical_16x16
+  rotate: false
+  xy: 494, 438
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Load_Vertical_16x16
+  rotate: false
+  xy: 222, 402
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Weathercock_Roof_Farmer_House_16x16
+  rotate: false
+  xy: 222, 366
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wood_Board_16x16
+  rotate: false
+  xy: 494, 402
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wooden_Shovel_1_Stone_Oven_16x16
+  rotate: false
+  xy: 494, 366
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wooden_Shovel_2_Stone_Oven_16x16
+  rotate: false
+  xy: 494, 330
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 410, 374
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Brown_Medium_16x16
+  rotate: false
+  xy: 366, 222
   size: 48, 64
   orig: 48, 64
   offset: 0, 0
   index: -1
-tree/Tree_Birch_Yellow_Small_16x16
+tree/Tree_Birch_Brown_Small_16x16
   rotate: false
-  xy: 342, 186
+  xy: 366, 306
   size: 48, 64
   orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Yellow_Big_16x16
+  rotate: false
+  xy: 314, 290
+  size: 48, 80
+  orig: 48, 80
   offset: 0, 0
   index: -1
 tree/Tree_Oak_Blue_Green_Medium_16x16
   rotate: false
-  xy: 2, 70
+  xy: 222, 38
   size: 64, 80
   orig: 64, 80
   offset: 0, 0
   index: -1
 tree/Tree_Oak_Brown_Medium_16x16
   rotate: false
-  xy: 70, 170
+  xy: 222, 282
   size: 64, 80
   orig: 64, 80
   offset: 0, 0
   index: -1
 tree/Tree_Oak_Green_Medium_16x16
   rotate: false
-  xy: 70, 86
+  xy: 222, 198
   size: 64, 80
   orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Big_16x16
+  rotate: false
+  xy: 2, 410
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Green_Big_16x16
+  rotate: false
+  xy: 2, 310
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Green_Huge_16x16
+  rotate: false
+  xy: 2, 210
+  size: 64, 96
+  orig: 64, 96
   offset: 0, 0
   index: -1
 tree/Tree_Pine_Blue_Green_Medium_16x16
   rotate: false
-  xy: 138, 170
+  xy: 290, 42
   size: 64, 80
   orig: 64, 80
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Huge_16x16
+  rotate: false
+  xy: 2, 110
+  size: 64, 96
+  orig: 64, 96
   offset: 0, 0
   index: -1
 tree/Tree_Pine_Blue_Medium_16x16
   rotate: false
-  xy: 138, 86
+  xy: 358, 42
   size: 64, 80
   orig: 64, 80
   offset: 0, 0
   index: -1
-tree/Tree_Pine_Blue_Small_16x16
+tree/Tree_Pine_Dark_Green_Big_16x16
   rotate: false
-  xy: 2, 2
-  size: 64, 64
-  orig: 64, 64
+  xy: 2, 10
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Dark_Green_Huge_16x16
+  rotate: false
+  xy: 70, 10
+  size: 64, 96
+  orig: 64, 96
   offset: 0, 0
   index: -1
 tree/Tree_Pine_Dark_Green_Medium_16x16
   rotate: false
-  xy: 206, 170
+  xy: 426, 290
   size: 64, 80
   orig: 64, 80
   offset: 0, 0
   index: -1
-tree/Tree_Pine_Dark_Green_Small_16x16
+tree/Tree_Pine_Green_Big_16x16
   rotate: false
-  xy: 70, 18
-  size: 64, 64
-  orig: 64, 64
+  xy: 70, 410
+  size: 64, 96
+  orig: 64, 96
   offset: 0, 0
   index: -1
 tree/Tree_Pine_Green_Huge_16x16
   rotate: false
-  xy: 2, 154
+  xy: 70, 310
   size: 64, 96
   orig: 64, 96
   offset: 0, 0
   index: -1
 tree/Tree_Pine_Green_Medium_16x16
   rotate: false
-  xy: 206, 86
+  xy: 426, 206
   size: 64, 80
   orig: 64, 80
   offset: 0, 0
   index: -1
-tree/Tree_Pine_Green_Small_16x16
+tree/Tree_Trunk_Birch_Big_16x16
   rotate: false
-  xy: 274, 186
+  xy: 222, 474
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Birch_Medium_16x16
+  rotate: false
+  xy: 222, 438
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Oak_Big_16x16
+  rotate: false
+  xy: 346, 6
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+
+objects5.png
+size: 512, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fences/Topsoil_Arable_Horizontal_Single_16x16
+  rotate: false
+  xy: 282, 86
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Small_Vertical_Modular_Bottom_16x16
+  rotate: false
+  xy: 470, 390
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Small_Vertical_Modular_Middle_16x16
+  rotate: false
+  xy: 462, 370
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Small_Vertical_Modular_Upper_16x16
+  rotate: false
+  xy: 462, 350
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Vertical_1_Single_16x16
+  rotate: false
+  xy: 310, 394
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Vertical_2_Single_16x16
+  rotate: false
+  xy: 414, 394
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Vertical_3_Single_16x16
+  rotate: false
+  xy: 174, 342
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Brown_Apples_16x16
+  rotate: false
+  xy: 318, 358
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Brown_Bananas_16x16
+  rotate: false
+  xy: 246, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Brown_Lemons_16x16
+  rotate: false
+  xy: 318, 322
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Brown_Oranges_16x16
+  rotate: false
+  xy: 354, 358
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Brown_Peaches_16x16
+  rotate: false
+  xy: 282, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Dark_Brown_Apples_16x16
+  rotate: false
+  xy: 318, 286
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Dark_Brown_Bananas_16x16
+  rotate: false
+  xy: 354, 322
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Dark_Brown_Lemons_16x16
+  rotate: false
+  xy: 318, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Dark_Brown_Oranges_16x16
+  rotate: false
+  xy: 354, 286
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Crate_Dark_Brown_Peaches_16x16
+  rotate: false
+  xy: 390, 322
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Sign_Apple_16x16
+  rotate: false
+  xy: 446, 50
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Sign_Banana_16x16
+  rotate: false
+  xy: 466, 50
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Sign_Lemon_16x16
+  rotate: false
+  xy: 446, 30
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Sign_Orange_16x16
+  rotate: false
+  xy: 466, 30
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Sign_Peach_16x16
+  rotate: false
+  xy: 466, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Banana_Trunk_16x16
+  rotate: false
+  xy: 486, 70
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Lemon_Trunk_16x16
+  rotate: false
+  xy: 246, 214
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Lemon_Unripe_16x16
+  rotate: false
+  xy: 2, 378
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
+fruit_tree/Fruit_Tree_Peach_Fruitless_16x16
+  rotate: false
+  xy: 86, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Peach_Fruitless_Big_16x16
+  rotate: false
+  xy: 2, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Peach_Ripe_16x16
+  rotate: false
+  xy: 70, 378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Peach_Ripe_Big_16x16
+  rotate: false
+  xy: 154, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Peach_Trunk_16x16
+  rotate: false
+  xy: 282, 214
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Peach_Unripe_16x16
+  rotate: false
+  xy: 2, 242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Peach_Unripe_Big_16x16
+  rotate: false
+  xy: 70, 310
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Small_Lemon_16x16
+  rotate: false
+  xy: 318, 214
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Small_Orange_16x16
+  rotate: false
+  xy: 354, 214
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Fruit_Tree_Small_Peach_16x16
+  rotate: false
+  xy: 390, 214
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fruit_tree/Pot_Tree_Apple_16x16
+  rotate: false
+  xy: 478, 410
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fruit_tree/Pot_Tree_Banana_16x16
+  rotate: false
+  xy: 138, 326
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fruit_tree/Pot_Tree_Lemon_16x16
+  rotate: false
+  xy: 138, 274
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fruit_tree/Pot_Tree_Orange_16x16
+  rotate: false
+  xy: 138, 222
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+fruit_tree/Pot_Tree_Peach_16x16
+  rotate: false
+  xy: 174, 70
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Bucket_Load_16x16
+  rotate: false
+  xy: 138, 186
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_Shelf_Empty_16x16
+  rotate: false
+  xy: 246, 358
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_Shelf_Full_1_16x16
+  rotate: false
+  xy: 174, 254
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_Shelf_Full_2_16x16
+  rotate: false
+  xy: 210, 254
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_Shelf_Full_3_16x16
+  rotate: false
+  xy: 246, 322
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_Shelf_Full_4_16x16
+  rotate: false
+  xy: 282, 358
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_Shelf_Full_5_16x16
+  rotate: false
+  xy: 174, 218
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cheese_Shelf_Full_6_16x16
+  rotate: false
+  xy: 210, 218
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chicken_Coop_Railing_Corner_Double_16x16
+  rotate: false
+  xy: 246, 286
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Chimney_Roof_Farmer_House_16x16
+  rotate: false
+  xy: 282, 322
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Color_Can_Empty_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 450, 426
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Color_Can_Full_Black_Shadow_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 450, 406
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Color_Can_Full_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 462, 290
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Cow_Sign_16x16
+  rotate: false
+  xy: 462, 270
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Crate_Brown_Empty_16x16
+  rotate: false
+  xy: 282, 286
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Crate_Dark_Brown_Empty_16x16
+  rotate: false
+  xy: 390, 358
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/DIY_Crafting_Table_Full_16x16
+  rotate: false
+  xy: 122, 122
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Dog_Bowl_Blue_Empty_16x16
+  rotate: false
+  xy: 462, 250
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Dog_Bowl_Blue_Full_16x16
+  rotate: false
+  xy: 462, 230
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Dog_Bowl_Grey_Empty_16x16
+  rotate: false
+  xy: 462, 210
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Dog_Bowl_Grey_Full_16x16
+  rotate: false
+  xy: 462, 190
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Dog_Bowl_Pink_Empty_16x16
+  rotate: false
+  xy: 462, 170
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Dog_Bowl_Pink_Full_16x16
+  rotate: false
+  xy: 462, 150
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Dog_Bowl_Red_Empty_16x16
+  rotate: false
+  xy: 482, 290
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Dog_Bowl_Red_Full_16x16
+  rotate: false
+  xy: 482, 270
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Donkey_Sign_16x16
+  rotate: false
+  xy: 482, 250
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Metal_Small_Empty_16x16
+  rotate: false
+  xy: 482, 230
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Metal_Small_Full_16x16
+  rotate: false
+  xy: 482, 210
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Small_Empty_16x16
+  rotate: false
+  xy: 482, 190
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Drinking_Trough_Small_Full_16x16
+  rotate: false
+  xy: 482, 170
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Duck_Sign_16x16
+  rotate: false
+  xy: 482, 150
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_16x16
+  rotate: false
+  xy: 462, 130
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Big_16x16
+  rotate: false
+  xy: 482, 130
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Golden_16x16
+  rotate: false
+  xy: 426, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Golden_Outlined_16x16
+  rotate: false
+  xy: 426, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Golden_Small_Outlined_16x16
+  rotate: false
+  xy: 426, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Outlined_16x16
+  rotate: false
+  xy: 426, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Round_Small_Outlined_16x16
+  rotate: false
+  xy: 426, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Round_Yellow_Small_Outlined_16x16
+  rotate: false
+  xy: 426, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Small_16x16
+  rotate: false
+  xy: 446, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Small_Outlined_16x16
+  rotate: false
+  xy: 462, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Stack_Box_16x16
+  rotate: false
+  xy: 354, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_White_16x16
+  rotate: false
+  xy: 482, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_White_Outlined_16x16
+  rotate: false
+  xy: 446, 90
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_White_Small_Outlined_16x16
+  rotate: false
+  xy: 466, 90
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Yellow_Big_16x16
+  rotate: false
+  xy: 446, 70
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Egg_Yellow_Small_16x16
+  rotate: false
+  xy: 466, 70
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Fabric_Box_1_Tailor_Crafting_Table_16x16
+  rotate: false
+  xy: 390, 286
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Fabric_Box_2_Tailor_Crafting_Table_16x16
+  rotate: false
+  xy: 390, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Fabric_Box_Empty_Tailor_Crafting_Table_16x16
+  rotate: false
+  xy: 174, 182
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Fish_Sign_Market_Stand_16x16
+  rotate: false
+  xy: 210, 182
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Goat_Sign_16x16
+  rotate: false
+  xy: 486, 50
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Grain_1_16x16
+  rotate: false
+  xy: 486, 30
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 486, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+props_and_buildings/Hay_Dry_Pile_Rake_Red_16x16
+  rotate: false
+  xy: 174, 146
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Dry_Pile_Rake_Yellow_16x16
+  rotate: false
+  xy: 210, 146
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Fresh_Pile_16x16
+  rotate: false
+  xy: 122, 50
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Fresh_Pile_Rake_Red_16x16
+  rotate: false
+  xy: 426, 358
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Fresh_Pile_Rake_Yellow_16x16
+  rotate: false
+  xy: 426, 322
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Manger_Horizontal_Empty_16x16
+  rotate: false
+  xy: 174, 126
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Manger_Horizontal_Full_16x16
+  rotate: false
+  xy: 426, 286
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Manger_Small_Empty_1_16x16
+  rotate: false
+  xy: 122, 70
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Hanging_Empty_Big_16x16
+  rotate: false
+  xy: 282, 194
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Hanging_Full_Big_16x16
+  rotate: false
+  xy: 426, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Horizontal_Empty_16x16
+  rotate: false
+  xy: 318, 194
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Horizontal_Full_16x16
+  rotate: false
+  xy: 354, 194
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Nest_Chicken_16x16
+  rotate: false
+  xy: 478, 462
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pot_Empty_16x16
+  rotate: false
+  xy: 426, 214
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pumpkin_Small_16x16
+  rotate: false
+  xy: 158, 18
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Raw_Bale_Big_16x16
+  rotate: false
+  xy: 390, 194
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Big_16x16
+  rotate: false
+  xy: 210, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Big_Blue_Stone_16x16
+  rotate: false
+  xy: 210, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Big_REd_Stone_16x16
+  rotate: false
+  xy: 210, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Medium_16x16
+  rotate: false
+  xy: 210, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Medium_Gold_Stone_16x16
+  rotate: false
+  xy: 246, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Medium_Silver_Stone_16x16
+  rotate: false
+  xy: 426, 178
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Small_16x16
+  rotate: false
+  xy: 246, 142
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Small_Bronze_Stone_16x16
+  rotate: false
+  xy: 246, 106
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Rock_Small_Silver_Stone_16x16
+  rotate: false
+  xy: 246, 70
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sack_Jute_Load_1_16x16
+  rotate: false
+  xy: 282, 158
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sack_Jute_Load_2_16x16
+  rotate: false
+  xy: 282, 122
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Scarecrow_16x16
+  rotate: false
+  xy: 154, 394
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sewing_Machine_Tailor_Crafting_Machine_16x16
+  rotate: false
+  xy: 246, 50
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stone_Oven_Base_16x16
+  rotate: false
+  xy: 390, 30
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stone_Oven_Cap_16x16
+  rotate: false
+  xy: 390, 10
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stone_Oven_Opening_16x16
+  rotate: false
+  xy: 318, 158
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tailor_Crafting_Table_16x16
+  rotate: false
+  xy: 206, 394
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Tailor_Crafting_Table_Full_16x16
+  rotate: false
+  xy: 258, 394
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Big_1_16x16
+  rotate: false
+  xy: 462, 330
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Big_2_16x16
+  rotate: false
+  xy: 462, 310
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Closed_1_16x16
+  rotate: false
+  xy: 426, 142
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Closed_2_16x16
+  rotate: false
+  xy: 390, 86
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Load_Big_Vertical_16x16
+  rotate: false
+  xy: 282, 50
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Load_Medium_Vertical_16x16
+  rotate: false
+  xy: 318, 50
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Open_1_16x16
+  rotate: false
+  xy: 210, 342
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Open_2_16x16
+  rotate: false
+  xy: 174, 290
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Well_Stone_16x16
+  rotate: false
+  xy: 354, 50
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Well_Usable_16x16
+  rotate: false
+  xy: 2, 2
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Well_Usable_Bucket_Empty_16x16
+  rotate: false
+  xy: 54, 2
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Well_Usable_Bucket_Full_16x16
+  rotate: false
+  xy: 106, 2
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Well_Usable_No_Handle_16x16
+  rotate: false
+  xy: 390, 50
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wood_Board_Load_16x16
+  rotate: false
+  xy: 282, 14
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wood_Box_Empty_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 318, 14
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wood_Box_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 210, 290
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wooden_Table_16x16
+  rotate: false
+  xy: 354, 14
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+props_and_buildings/Woodwork_Crafting_Table_Full_16x16
+  rotate: false
+  xy: 2, 446
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Green_Medium_16x16
+  rotate: false
+  xy: 2, 38
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Green_Small_16x16
+  rotate: false
+  xy: 70, 106
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Yellow_Medium_16x16
+  rotate: false
+  xy: 426, 446
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Birch_Yellow_Small_16x16
+  rotate: false
+  xy: 54, 38
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Blue_Green_Small_16x16
+  rotate: false
+  xy: 222, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Brown_Small_16x16
+  rotate: false
+  xy: 2, 174
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Oak_Green_Small_16x16
+  rotate: false
+  xy: 70, 242
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Green_Small_16x16
+  rotate: false
+  xy: 290, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Blue_Small_16x16
+  rotate: false
+  xy: 2, 106
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Dark_Green_Small_16x16
+  rotate: false
+  xy: 70, 174
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Pine_Green_Small_16x16
+  rotate: false
+  xy: 358, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Birch_Huge_16x16
+  rotate: false
+  xy: 318, 122
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Oak_Huge_16x16
+  rotate: false
+  xy: 362, 394
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Oak_Medium_16x16
+  rotate: false
+  xy: 354, 158
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Oak_Small_16x16
+  rotate: false
+  xy: 390, 158
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Pine_Big_16x16
+  rotate: false
+  xy: 318, 86
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 tree/Tree_Trunk_Pine_Huge_16x16
   rotate: false
-  xy: 190, 50
+  xy: 354, 122
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 tree/Tree_Trunk_Pine_Medium_16x16
   rotate: false
-  xy: 326, 150
+  xy: 354, 86
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 tree/Tree_Trunk_Pine_Small_16x16
   rotate: false
-  xy: 394, 218
+  xy: 390, 122
   size: 32, 32
   orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+objects6.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fences/Rod_Rope_Horizontal_1_16x16
+  rotate: false
+  xy: 42, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Rod_Rope_Horizontal_2_16x16
+  rotate: false
+  xy: 62, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Rod_Rope_Horizontal_3_16x16
+  rotate: false
+  xy: 82, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Rod_Rope_Vertical_1_Left_16x16
+  rotate: false
+  xy: 102, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Rod_Rope_Vertical_1_Right_16x16
+  rotate: false
+  xy: 122, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Rod_Rope_Vertical_2_Left_16x16
+  rotate: false
+  xy: 142, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Rod_Rope_Vertical_2_Right_16x16
+  rotate: false
+  xy: 162, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Rod_Rope_Vertical_3_Left_16x16
+  rotate: false
+  xy: 182, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Rod_Rope_Vertical_3_Right_16x16
+  rotate: false
+  xy: 2, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_16x16
+  rotate: false
+  xy: 122, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Bottom_Left_16x16
+  rotate: false
+  xy: 142, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Bottom_Middle_16x16
+  rotate: false
+  xy: 162, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Bottom_Right_16x16
+  rotate: false
+  xy: 182, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Middle_Central_16x16
+  rotate: false
+  xy: 202, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Middle_Left_16x16
+  rotate: false
+  xy: 222, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Middle_Right_16x16
+  rotate: false
+  xy: 22, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Upper_Left_16x16
+  rotate: false
+  xy: 42, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Upper_Middle_16x16
+  rotate: false
+  xy: 62, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Arable_Big_Modular_Upper_Right_16x16
+  rotate: false
+  xy: 82, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Box_Corner_1_16x16
+  rotate: false
+  xy: 102, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Box_Corner_2_16x16
+  rotate: false
+  xy: 122, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Box_Corner_3_16x16
+  rotate: false
+  xy: 142, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Topsoil_Box_Corner_4_16x16
+  rotate: false
+  xy: 162, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_1_16x16
+  rotate: false
+  xy: 142, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_2_16x16
+  rotate: false
+  xy: 162, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_3_16x16
+  rotate: false
+  xy: 182, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_4_16x16
+  rotate: false
+  xy: 202, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_5_16x16
+  rotate: false
+  xy: 222, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_6_16x16
+  rotate: false
+  xy: 242, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_7_16x16
+  rotate: false
+  xy: 262, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_8_16x16
+  rotate: false
+  xy: 62, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Inner_Corner_1_16x16
+  rotate: false
+  xy: 82, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Inner_Corner_2_16x16
+  rotate: false
+  xy: 102, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Inner_Corner_3_16x16
+  rotate: false
+  xy: 122, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Inner_Corner_4_16x16
+  rotate: false
+  xy: 142, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Modular_1_16x16
+  rotate: false
+  xy: 162, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Modular_2_16x16
+  rotate: false
+  xy: 182, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Single_1_16x16
+  rotate: false
+  xy: 202, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Single_2_16x16
+  rotate: false
+  xy: 222, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Split_1_Bottom_16x16
+  rotate: false
+  xy: 242, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Split_1_Upper_16x16
+  rotate: false
+  xy: 262, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Split_2_Bottom_16x16
+  rotate: false
+  xy: 282, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Split_2_Upper_16x16
+  rotate: false
+  xy: 82, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Split_3_Bottom_16x16
+  rotate: false
+  xy: 102, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Split_3_Upper_16x16
+  rotate: false
+  xy: 122, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Split_4_Bottom_16x16
+  rotate: false
+  xy: 142, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Brown_Split_4_Upper_16x16
+  rotate: false
+  xy: 162, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_1_16x16
+  rotate: false
+  xy: 182, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_2_16x16
+  rotate: false
+  xy: 202, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_3_16x16
+  rotate: false
+  xy: 222, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_4_16x16
+  rotate: false
+  xy: 242, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_5_16x16
+  rotate: false
+  xy: 262, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_6_16x16
+  rotate: false
+  xy: 282, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_7_16x16
+  rotate: false
+  xy: 302, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_8_16x16
+  rotate: false
+  xy: 102, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Inner_Corner_1_16x16
+  rotate: false
+  xy: 122, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Inner_Corner_2_16x16
+  rotate: false
+  xy: 142, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Inner_Corner_3_16x16
+  rotate: false
+  xy: 162, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Inner_Corner_4_16x16
+  rotate: false
+  xy: 182, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Modular_1_16x16
+  rotate: false
+  xy: 202, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Modular_2_16x16
+  rotate: false
+  xy: 222, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Single_16x16
+  rotate: false
+  xy: 242, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Split_1_Bottom_16x16
+  rotate: false
+  xy: 262, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Split_1_Upper_16x16
+  rotate: false
+  xy: 282, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Split_2_Bottom_16x16
+  rotate: false
+  xy: 302, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Split_2_Upper_16x16
+  rotate: false
+  xy: 322, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Split_3_Bottom_16x16
+  rotate: false
+  xy: 122, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Split_3_Upper_16x16 (1)
+  rotate: false
+  xy: 142, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Split_4_Bottom_16x16
+  rotate: false
+  xy: 162, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Light_Brown_Split_4_Upper_16x16
+  rotate: false
+  xy: 182, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_1_16x16
+  rotate: false
+  xy: 202, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_2_16x16
+  rotate: false
+  xy: 222, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_3_16x16
+  rotate: false
+  xy: 242, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_4_16x16
+  rotate: false
+  xy: 262, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_5_16x16
+  rotate: false
+  xy: 282, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_6_16x16
+  rotate: false
+  xy: 302, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_7_16x16
+  rotate: false
+  xy: 322, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_8_16x16
+  rotate: false
+  xy: 342, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Inner_Corner_1_16x16
+  rotate: false
+  xy: 142, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Inner_Corner_2_16x16
+  rotate: false
+  xy: 162, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Inner_Corner_3_16x16
+  rotate: false
+  xy: 182, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Inner_Corner_4_16x16
+  rotate: false
+  xy: 202, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Modular_1_16x16
+  rotate: false
+  xy: 222, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Modular_2_16x16
+  rotate: false
+  xy: 242, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Single_16x16
+  rotate: false
+  xy: 262, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Split_1_Bottom_16x16
+  rotate: false
+  xy: 282, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Split_1_Upper_16x16
+  rotate: false
+  xy: 302, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Split_2_Bottom_16x16
+  rotate: false
+  xy: 322, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Split_2_Upper_16x16
+  rotate: false
+  xy: 342, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Split_3_Bottom_16x16
+  rotate: false
+  xy: 362, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Split_3_Upper_16x16
+  rotate: false
+  xy: 162, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Split_4_Bottom_16x16
+  rotate: false
+  xy: 182, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_1_Red_Brown_Split_4_Upper_16x16
+  rotate: false
+  xy: 202, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_1_Vers_1_16x16
+  rotate: false
+  xy: 222, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_1_Vers_2_16x16
+  rotate: false
+  xy: 242, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_2_Vers_1_16x16
+  rotate: false
+  xy: 262, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_2_Vers_2_16x16
+  rotate: false
+  xy: 282, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_3_Vers_1_16x16
+  rotate: false
+  xy: 302, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_3_Vers_2_16x16
+  rotate: false
+  xy: 322, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_4_Vers_1_16x16
+  rotate: false
+  xy: 342, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_4_Vers_2_16x16
+  rotate: false
+  xy: 362, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_5_Vers_1_16x16
+  rotate: false
+  xy: 382, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_5_Vers_2_16x16
+  rotate: false
+  xy: 182, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_6_Vers_1_16x16
+  rotate: false
+  xy: 202, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Brown_6_Vers_2_16x16
+  rotate: false
+  xy: 222, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_1_Vers_1_16x16
+  rotate: false
+  xy: 242, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_1_Vers_2_16x16
+  rotate: false
+  xy: 262, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_2_Vers_1_16x16
+  rotate: false
+  xy: 282, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_2_Vers_2_16x16
+  rotate: false
+  xy: 302, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_3_Vers_1_16x16
+  rotate: false
+  xy: 322, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_3_Vers_2_16x16
+  rotate: false
+  xy: 342, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_4_Vers_1_16x16
+  rotate: false
+  xy: 362, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_4_Vers_2_16x16
+  rotate: false
+  xy: 382, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_5_Vers_1_16x16
+  rotate: false
+  xy: 402, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_5_Vers_2_16x16
+  rotate: false
+  xy: 202, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_6_Vers_1_16x16
+  rotate: false
+  xy: 222, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_Dark_Brown_6_Vers_2_16x16
+  rotate: false
+  xy: 242, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_1_Vers_1_16x16
+  rotate: false
+  xy: 262, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_1_Vers_2_16x16
+  rotate: false
+  xy: 282, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_2_Vers_1_16x16
+  rotate: false
+  xy: 302, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_2_Vers_2_16x16
+  rotate: false
+  xy: 322, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_3_Vers_1_16x16
+  rotate: false
+  xy: 342, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_3_Vers_2_16x16
+  rotate: false
+  xy: 362, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_4_Vers_1_16x16
+  rotate: false
+  xy: 382, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_4_Vers_2_16x16
+  rotate: false
+  xy: 402, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_5_Vers_1_16x16
+  rotate: false
+  xy: 422, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_5_Vers_2_16x16
+  rotate: false
+  xy: 222, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_6_Vers_1_16x16
+  rotate: false
+  xy: 242, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_2_White_6_Vers_2_16x16
+  rotate: false
+  xy: 262, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_1_16x16
+  rotate: false
+  xy: 282, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_2_16x16
+  rotate: false
+  xy: 302, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_3_16x16
+  rotate: false
+  xy: 322, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_4_16x16
+  rotate: false
+  xy: 342, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_5_16x16
+  rotate: false
+  xy: 362, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_6_16x16
+  rotate: false
+  xy: 382, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_7_16x16
+  rotate: false
+  xy: 402, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_8_16x16
+  rotate: false
+  xy: 422, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Corner_1_16x16
+  rotate: false
+  xy: 442, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Corner_2_16x16
+  rotate: false
+  xy: 242, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Corner_3_16x16
+  rotate: false
+  xy: 262, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Corner_4_16x16
+  rotate: false
+  xy: 282, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Gate_1_16x16
+  rotate: false
+  xy: 302, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Gate_2_16x16
+  rotate: false
+  xy: 322, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Gate_3_16x16
+  rotate: false
+  xy: 342, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Modular_Horizontal_1_16x16
+  rotate: false
+  xy: 362, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Modular_Horizontal_2_16x16
+  rotate: false
+  xy: 382, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Modular_Vertical_1_16x16
+  rotate: false
+  xy: 402, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Modular_Vertical_2_16x16
+  rotate: false
+  xy: 422, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Modular_Vertical_3_16x16
+  rotate: false
+  xy: 442, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Single_16x16
+  rotate: false
+  xy: 462, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Brown_Top_Single_16x16
+  rotate: false
+  xy: 262, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_1_16x16
+  rotate: false
+  xy: 282, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_2_16x16
+  rotate: false
+  xy: 302, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_3_16x16
+  rotate: false
+  xy: 322, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_4_16x16
+  rotate: false
+  xy: 342, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_5_16x16
+  rotate: false
+  xy: 362, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_6_16x16
+  rotate: false
+  xy: 382, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_7_16x16
+  rotate: false
+  xy: 402, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_8_16x16
+  rotate: false
+  xy: 422, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Gate_1_16x16
+  rotate: false
+  xy: 442, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Gate_2_16x16
+  rotate: false
+  xy: 462, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_1_16x16
+  rotate: false
+  xy: 482, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_2_16x16
+  rotate: false
+  xy: 282, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_3_16x16
+  rotate: false
+  xy: 302, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_4_16x16
+  rotate: false
+  xy: 322, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_5_16x16
+  rotate: false
+  xy: 342, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_6_16x16
+  rotate: false
+  xy: 362, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_7_16x16
+  rotate: false
+  xy: 382, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_8_16x16
+  rotate: false
+  xy: 402, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_9_16x16
+  rotate: false
+  xy: 422, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Modular_1_16x16
+  rotate: false
+  xy: 442, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Modular_2_16x16
+  rotate: false
+  xy: 462, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Split_1_16x16
+  rotate: false
+  xy: 482, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Split_2_16x16
+  rotate: false
+  xy: 302, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Split_3_16x16
+  rotate: false
+  xy: 322, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_3_Dark_Brown_Split_4_16x16
+  rotate: false
+  xy: 342, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_1_16x16
+  rotate: false
+  xy: 362, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_2_16x16
+  rotate: false
+  xy: 382, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_3_16x16
+  rotate: false
+  xy: 402, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_4_16x16
+  rotate: false
+  xy: 422, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_5_16x16
+  rotate: false
+  xy: 442, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_6_16x16
+  rotate: false
+  xy: 462, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_7_16x16
+  rotate: false
+  xy: 482, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_8_16x16
+  rotate: false
+  xy: 322, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Gate_1_16x16
+  rotate: false
+  xy: 342, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Gate_2_16x16
+  rotate: false
+  xy: 362, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_1_16x16
+  rotate: false
+  xy: 382, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_2_16x16
+  rotate: false
+  xy: 402, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_3_16x16
+  rotate: false
+  xy: 422, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_4_16x16
+  rotate: false
+  xy: 442, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_5_16x16
+  rotate: false
+  xy: 462, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_6_16x16
+  rotate: false
+  xy: 482, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_7_16x16
+  rotate: false
+  xy: 342, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_8_16x16
+  rotate: false
+  xy: 362, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Inner_Corner_9_16x16
+  rotate: false
+  xy: 382, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Modular_1_16x16
+  rotate: false
+  xy: 402, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Modular_2_16x16
+  rotate: false
+  xy: 422, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Split_1_16x16
+  rotate: false
+  xy: 442, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Split_2_16x16
+  rotate: false
+  xy: 462, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Split_3_16x16
+  rotate: false
+  xy: 482, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Type_4_Brown_Split_4_16x16
+  rotate: false
+  xy: 362, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_1_16x16
+  rotate: false
+  xy: 382, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_2_16x16
+  rotate: false
+  xy: 402, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_3_16x16
+  rotate: false
+  xy: 422, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_4_16x16
+  rotate: false
+  xy: 442, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_5_16x16
+  rotate: false
+  xy: 462, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_6_16x16
+  rotate: false
+  xy: 482, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_7_16x16
+  rotate: false
+  xy: 382, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_8_16x16
+  rotate: false
+  xy: 402, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Inner_Corner_1_16x16
+  rotate: false
+  xy: 422, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Inner_Corner_2_16x16
+  rotate: false
+  xy: 442, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Inner_Corner_3_16x16
+  rotate: false
+  xy: 462, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Inner_Corner_4_16x16
+  rotate: false
+  xy: 482, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Modular_1_16x16
+  rotate: false
+  xy: 402, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Modular_2_16x16
+  rotate: false
+  xy: 422, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Single_1_16x16
+  rotate: false
+  xy: 442, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Single_2_16x16
+  rotate: false
+  xy: 462, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Split_1_Bottom_16x16
+  rotate: false
+  xy: 482, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Split_1_Upper_16x16
+  rotate: false
+  xy: 422, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Split_2_Bottom_16x16
+  rotate: false
+  xy: 442, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Split_2_Upper_16x16
+  rotate: false
+  xy: 462, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Split_3_Bottom_16x16
+  rotate: false
+  xy: 482, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Split_3_Upper_16x16
+  rotate: false
+  xy: 442, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Split_4_Bottom_16x16
+  rotate: false
+  xy: 462, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fences/Wooden_Fence_Yellow_Brown_Split_4_Upper_16x16
+  rotate: false
+  xy: 482, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 2, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 2, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 22, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 2, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 22, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 42, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 2, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 22, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 9
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 42, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 10
+props_and_buildings/Grass_Tufts_Flowers
+  rotate: false
+  xy: 62, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 11
+props_and_buildings/Hacksaw_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 2, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hammer_1_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 22, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hammer_2_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 42, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hammer_Black_Shadow_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 62, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hammer_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 82, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Handbook_Black_Shadow_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 2, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Handbook_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 22, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hare_Sign_16x16
+  rotate: false
+  xy: 42, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Dry_Bits_1_16x16
+  rotate: false
+  xy: 62, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Dry_Bits_2_16x16
+  rotate: false
+  xy: 82, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Dry_Pile_Small_16x16
+  rotate: false
+  xy: 102, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Fresh_Bits_1_16x16
+  rotate: false
+  xy: 2, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Fresh_Bits_2_16x16
+  rotate: false
+  xy: 22, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Fresh_Pile_Small_16x16
+  rotate: false
+  xy: 42, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Manger_Small_Empty_2_16x16
+  rotate: false
+  xy: 62, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Manger_Small_Full_1_16x16
+  rotate: false
+  xy: 82, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Hay_Manger_Small_Full_2_16x16
+  rotate: false
+  xy: 102, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Hanging_Empty_Small_16x16
+  rotate: false
+  xy: 122, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Small_Empty_16x16
+  rotate: false
+  xy: 2, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Manger_Small_Full_16x16
+  rotate: false
+  xy: 22, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Milk_Basket_Empty_1_16x16
+  rotate: false
+  xy: 42, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Milk_Basket_Empty_2_16x16
+  rotate: false
+  xy: 62, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Milk_Basket_Full_1_16x16
+  rotate: false
+  xy: 82, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Milk_Basket_Full_2_16x16
+  rotate: false
+  xy: 102, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Milk_Can_1_16x16
+  rotate: false
+  xy: 122, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Milk_Can_2_16x16
+  rotate: false
+  xy: 142, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Milk_Can_3_16x16
+  rotate: false
+  xy: 2, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pencil_Black_Shadow_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 22, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pencil_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 42, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pencils_Can_Black_Shadow_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 62, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pencils_Can_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 82, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Photo_Frame_Black_Shadow_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 102, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Photo_Frame_DIY_Crafting_Table_16x16
+  rotate: false
+  xy: 122, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pig_Sign_16x16
+  rotate: false
+  xy: 142, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Pumpkin_Medium_16x16
+  rotate: false
+  xy: 162, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Raw_Bale_Small_16x16
+  rotate: false
+  xy: 2, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Register_Market_Stand_16x16
+  rotate: false
+  xy: 22, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Scale_Market_Stand_16x16
+  rotate: false
+  xy: 22, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Shavings_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 42, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sheep_Sign_16x16
+  rotate: false
+  xy: 62, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_1_16x16
+  rotate: false
+  xy: 82, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_2_16x16
+  rotate: false
+  xy: 102, 122
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_Basenji_16x16
+  rotate: false
+  xy: 122, 142
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_Blank_16x16
+  rotate: false
+  xy: 142, 162
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_German_Shepherd_16x16
+  rotate: false
+  xy: 162, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sign_Labrador_16x16
+  rotate: false
+  xy: 182, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Soil_Wet_1_16x16
+  rotate: false
+  xy: 202, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Soil_Wet_2_16x16
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Soil_Wet_3_16x16
+  rotate: false
+  xy: 22, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Soil_Wet_4_16x16
+  rotate: false
+  xy: 42, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Sprinkler_16x16
+  rotate: false
+  xy: 62, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stool_Wood_1_16x16
+  rotate: false
+  xy: 82, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Stool_Wood_2_16x16
+  rotate: false
+  xy: 102, 102
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Small_1_16x16
+  rotate: false
+  xy: 202, 182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Trunk_Small_2_16x16
+  rotate: false
+  xy: 222, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Water_Drop_Outlined_16x16
+  rotate: false
+  xy: 242, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Watermelon_16x16
+  rotate: false
+  xy: 42, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wood_Cutter_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 62, 22
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wood_Piece_1_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 82, 42
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wood_Piece_2_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 102, 62
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Wood_Piece_3_Woodwork_Crafting_Table_16x16
+  rotate: false
+  xy: 122, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+props_and_buildings/Yarn_Black_Tailor_Crafting_Table_16x16
+  rotate: false
+  xy: 462, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tree/Tree_Trunk_Birch_Small_16x16
+  rotate: false
+  xy: 182, 162
+  size: 16, 16
+  orig: 16, 16
   offset: 0, 0
   index: -1

@@ -15,6 +15,8 @@ import com.badlogic.gdx.utils.GdxRuntimeException;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import io.github.some_example_name.asset.AssetService;
+import io.github.some_example_name.screen.GameScreen;
+import io.github.some_example_name.screen.LoadingScreen;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -46,8 +48,8 @@ public class Main extends Game {
         this.glProfiler.enable();
         this.fpsLogger = new FPSLogger();
 
-        addScreen(new GameScreen(this));
-        setScreen(GameScreen.class);
+        addScreen(new LoadingScreen(this, assetService));
+        setScreen(LoadingScreen.class);
     }
 
     @Override
@@ -58,6 +60,11 @@ public class Main extends Game {
 
     public void addScreen(Screen screen) {
         screenCache.put(screen.getClass(), screen);
+    }
+
+
+    public void removeScreen(Screen screen) {
+        screenCache.remove(screen.getClass());
     }
 
     public void setScreen(Class<? extends Screen> screenClass) {
@@ -78,6 +85,7 @@ public class Main extends Game {
         Gdx.graphics.setTitle("SproutLand - Draw Calls:" + glProfiler.getDrawCalls());
         fpsLogger.log();
     }
+
 
     @Override
     public void dispose() {
@@ -104,4 +112,6 @@ public class Main extends Game {
     public OrthographicCamera getCamera() {
         return camera;
     }
+
+
 }

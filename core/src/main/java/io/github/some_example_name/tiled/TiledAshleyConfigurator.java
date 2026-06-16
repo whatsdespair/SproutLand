@@ -10,6 +10,7 @@ import com.badlogic.gdx.math.Vector2;
 import io.github.some_example_name.Main;
 import io.github.some_example_name.asset.AssetService;
 
+import io.github.some_example_name.asset.AtlasAsset;
 import io.github.some_example_name.component.Graphics;
 import io.github.some_example_name.component.Transform;
 
@@ -53,6 +54,8 @@ public class TiledAshleyConfigurator {
 
 
     private TextureRegion getTextureRegion(TiledMapTile tile) {
+        tile.getProperties().get("atlasAsset", AtlasAsset.OBJECTS.name(), String.class);
+
         return tile.getTextureRegion();
     }
 }
