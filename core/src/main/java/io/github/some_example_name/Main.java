@@ -15,7 +15,6 @@ import com.badlogic.gdx.utils.GdxRuntimeException;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import io.github.some_example_name.asset.AssetService;
-import io.github.some_example_name.screen.GameScreen;
 import io.github.some_example_name.screen.LoadingScreen;
 
 import java.util.HashMap;

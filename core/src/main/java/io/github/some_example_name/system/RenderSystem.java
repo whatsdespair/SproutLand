@@ -53,7 +53,6 @@ public RenderSystem(Batch batch, Viewport viewport, OrthographicCamera camera){
         this.batch.setColor(Color.WHITE);
         this.mapRenderer.setView(this.camera);
         bgdLayers.forEach(mapRenderer::renderMapLayer);
-        this.mapRenderer.render();
 
         forceSort();
         super.update(deltaTime);
