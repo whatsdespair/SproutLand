@@ -62,12 +62,28 @@ public class TiledAshleyConfigurator {
         TextureAtlas textureAtlas = this.assetService.get(atlasAsset);
         FileTextureData textureData = (FileTextureData) tile.getTextureRegion().getTexture().getTextureData();
         String atlasKey = textureData.getFileHandle().nameWithoutExtension();
-        TextureAtlas.AtlasRegion region = textureAtlas.findRegion(atlasKey + "/" + atlasKey);
+        TextureAtlas.AtlasRegion region = findRegion(textureAtlas, atlasKey);
         if(region != null){
             return region;
         }
         //player/sprite-1-4
 
         return tile.getTextureRegion();
+    }
+
+    private TextureAtlas.AtlasRegion findRegion(TextureAtlas textureAtlas, String atlasKey) {
+        TextureAtlas.AtlasRegion region = textureAtlas.findRegion(atlasKey);
+        if (region != null) {
+            return region;
+        }
+
+        String suffix = "/" + atlasKey;
+        for (TextureAtlas.AtlasRegion atlasRegion : textureAtlas.getRegions()) {
+            if (atlasRegion.name.endsWith(suffix)) {
+                return atlasRegion;
+            }
+        }
+
+        return null;
     }
 }
