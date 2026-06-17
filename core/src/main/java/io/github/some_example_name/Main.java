@@ -1,9 +1,6 @@
 package io.github.some_example_name;
 
-import com.badlogic.gdx.Application;
-import com.badlogic.gdx.Game;
-import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.Screen;
+import com.badlogic.gdx.*;
 import com.badlogic.gdx.assets.loaders.resolvers.InternalFileHandleResolver;
 import com.badlogic.gdx.graphics.FPSLogger;
 import com.badlogic.gdx.graphics.GL20;
@@ -32,12 +29,16 @@ public class Main extends Game {
     private AssetService assetService;
     private GLProfiler glProfiler;
     private FPSLogger fpsLogger = new FPSLogger();
+    private InputMultiplexer inputMultiplexer;
 
     private final Map<Class<? extends Screen>, Screen> screenCache = new HashMap<>();
 
     @Override
     public void create() {
         Gdx.app.setLogLevel(Application.LOG_DEBUG);
+        this.inputMultiplexer = new InputMultiplexer();
+        Gdx.input.setInputProcessor(this.inputMultiplexer);
+
 
         this.batch = new SpriteBatch();
         this.camera = new OrthographicCamera();
@@ -112,5 +113,12 @@ public class Main extends Game {
         return camera;
     }
 
+    public void setInputProcessors(InputProcessor... processors) {
+        this.inputMultiplexer.clear();
+        if(processors==null) return;
+        for(InputProcessor processor : processors){
+            inputMultiplexer.addProcessor(processor);
+        }
 
+    }
 }
