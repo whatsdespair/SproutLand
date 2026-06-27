@@ -125,6 +125,7 @@
         "Farmer.tsx"
     ],
     "project": "SproutLand.tiled-project",
+    "property.type": "float",
     "recentFiles": [
         "Farmer.tsx",
         "Objects.tsx",

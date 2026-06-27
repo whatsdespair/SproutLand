@@ -2,6 +2,9 @@
 <tileset version="1.10" tiledversion="1.12.2" name="Farmer" tilewidth="16" tileheight="23" tilecount="4" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
+  <properties>
+   <property name="speed" type="float" value="1"/>
+  </properties>
   <image source="../Sprites/Farmer Idle/sprite-1-4.png" width="16" height="23"/>
  </tile>
  <tile id="1">

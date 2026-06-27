@@ -13,7 +13,9 @@ import io.github.some_example_name.Main;
 import io.github.some_example_name.asset.AssetService;
 
 import io.github.some_example_name.asset.AtlasAsset;
+import io.github.some_example_name.component.Controller;
 import io.github.some_example_name.component.Graphics;
+import io.github.some_example_name.component.Move;
 import io.github.some_example_name.component.Transform;
 
 public class TiledAshleyConfigurator {
@@ -38,8 +40,27 @@ public class TiledAshleyConfigurator {
             tileMapObject.getScaleX(), tileMapObject.getScaleY(),
             entity);
 
+        addEntityController(tileMapObject, entity);
+        addEntityMove(tile, entity);
+
+
         this.engine.addEntity(entity);
 
+    }
+
+    private void addEntityMove(TiledMapTile tile, Entity entity) {
+        float speed = tile.getProperties().get("speed", 0f, Float.class);
+        if(speed == 0f) return;
+
+        entity.add(new Move(speed));
+    }
+
+    private void addEntityController(TiledMapTileMapObject tileMapObject, Entity entity) {
+
+        boolean controller = tileMapObject.getProperties().get("controller", false, Boolean.class);
+        if(!controller) return;
+
+        entity.add(new Controller());
     }
 
     private void addEntityTransform(float x, float y, int z, float w, float h, float scaleX, float scaleY, Entity entity) {

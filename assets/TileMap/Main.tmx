@@ -38,6 +38,7 @@
   <object id="23" gid="12827" x="104" y="279" width="16" height="23">
    <properties>
     <property name="atlasAsset" value="OBJECTS"/>
+    <property name="controller" type="bool" value="true"/>
    </properties>
   </object>
   <object id="24" gid="12565" x="178" y="217" width="64" height="96"/>

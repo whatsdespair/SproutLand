@@ -7,6 +7,10 @@ import com.badlogic.gdx.maps.tiled.TiledMap;
 import com.badlogic.gdx.utils.Disposable;
 import io.github.some_example_name.Main;
 import io.github.some_example_name.asset.MapAssets;
+import io.github.some_example_name.input.GameControllerState;
+import io.github.some_example_name.input.KeyboardController;
+import io.github.some_example_name.system.ControllerSystem;
+import io.github.some_example_name.system.MoveSystem;
 import io.github.some_example_name.system.RenderSystem;
 import io.github.some_example_name.tiled.TiledAshleyConfigurator;
 import io.github.some_example_name.tiled.TiledService;
@@ -17,17 +21,26 @@ public class GameScreen extends ScreenAdapter {
 private  final Engine engine;
 private final TiledService tiledService;
 private final TiledAshleyConfigurator tiledAshleyConfigurator;
+private final KeyboardController keyboardController;
+private final Main game;
 
     public GameScreen(Main game){
+        this.game = game;
         this.tiledService = new TiledService(game.getAssetService());
         this.engine = new Engine();
         this.tiledAshleyConfigurator = new TiledAshleyConfigurator(this.engine, game.getAssetService());
+        this.keyboardController = new KeyboardController(GameControllerState.class, engine);
 
+        this.engine.addSystem(new ControllerSystem());
+        this.engine.addSystem(new MoveSystem());
         this.engine.addSystem(new RenderSystem(game.getBatch(), game.getViewport(), game.getCamera()));
     }
 
     @Override
     public void show() {
+        game.setInputProcessors(keyboardController);
+        keyboardController.setActiveState(GameControllerState.class);
+
         Consumer<TiledMap> renderConsumer = this.engine.getSystem(RenderSystem.class)::setMap;
         this.tiledService.setMapChangeConsumer(renderConsumer);
         this.tiledService.setLoadObjectConsumer(this.tiledAshleyConfigurator::onLoadObject);
