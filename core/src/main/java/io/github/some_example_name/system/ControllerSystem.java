@@ -44,7 +44,7 @@ public class ControllerSystem extends IteratingSystem {
             }
 
         }
-        controller.getPressedCommands().clear();
+        controller.getReleasedCommands().clear();
 
 
     }

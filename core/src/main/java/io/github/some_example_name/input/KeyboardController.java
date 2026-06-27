@@ -56,7 +56,7 @@ public class KeyboardController extends InputAdapter {
     @Override
     public boolean keyDown(int keycode) {
         Command command = KEY_MAPPING.get(keycode);
-        if (command != null) return false;
+        if (command == null) return false;
 
         this.commandState[command.ordinal()] = true;
         this.activeState.keyDown(command);
@@ -67,7 +67,7 @@ public class KeyboardController extends InputAdapter {
     @Override
     public boolean keyUp(int keycode) {
         Command command = KEY_MAPPING.get(keycode);
-        if (command != null) return false;
+        if (command == null) return false;
         if(!this.commandState[command.ordinal()]) return false;
 
         this.commandState[command.ordinal()] = false;
